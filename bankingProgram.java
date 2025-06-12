@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class bankingProgram {
+    //global declaration
     private static final Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
         //declare int for the user to pick what they want you have to initialize it too
