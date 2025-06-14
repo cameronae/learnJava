@@ -1,3 +1,4 @@
+package broCode;
 //this is a package "util" using the class Scanner in order to read user input
 import java.util.Scanner;
 //All java programs are inside of a class, have to name the class as the file name

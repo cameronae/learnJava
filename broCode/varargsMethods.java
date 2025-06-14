@@ -1,3 +1,4 @@
+package broCode;
 public class varargsMethods {
     public static void main(String[] args) {
         //varargs allow methods to accept a varying # of arguments, java will pack these args into an array
